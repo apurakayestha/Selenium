@@ -13,6 +13,8 @@ public class StepDefinations {
 	public void initialize_the_browser_with_chrome() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("Initialize");
+		System.out.println("Again");
+		System.out.println("2 Again");
 	}
 
 	@Given("^Navigate to \"([^\"]*)\" Site$")
